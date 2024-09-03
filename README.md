@@ -1,4 +1,4 @@
-cretae blog app for posts
-cretae accounts app for login,logout,register
-cretae website app
-add captcha to admin form
+cretae blog app for posts and 
+cretae accounts app for login,logout,register and
+cretae website app and
+add captcha to admin form .
